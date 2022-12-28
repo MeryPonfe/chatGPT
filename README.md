@@ -1,1 +1,1 @@
-# chatGPT
+# chatGPT for SEO
